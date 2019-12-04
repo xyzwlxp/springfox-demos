@@ -7,3 +7,7 @@ First build
 ```
 ./gradlew idea
 ```
+
+``` Java
+System.out.println("Hellow world!")
+```
